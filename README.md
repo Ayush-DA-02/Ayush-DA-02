@@ -6,7 +6,11 @@ Email Me 👉 ✉️ **ayush34313@gmail.com** For Collaboration/Project or Anyth
 - 🔭 **I’m currently working on:** Data analyst project 
 - 🌱 **I’m currently learning:** Data analysis
 - 📫 **How to reach me:** ayush34313@gmail.com
-- ⚡ **Fun fact:** I Love Data and  manipulation 
+- ⚡ **Fun fact:** I Love Data and  manipulation
+
+## 🏆 Certifications
+* 🏅 **[HackerRank - SQL (Basic) Certificate](https://www.hackerrank.com/certificates/82ff83533c51)**
+* 🏅 **[HackerRank - SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/c308aaaaf7f6)**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.r_52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraj1402) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush5676) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush34313@gmail.com) 
 
