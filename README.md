@@ -27,6 +27,24 @@ Email Me 👉 ✉️ **ayush34313@gmail.com** For Collaboration/Project or Anyth
 ![](https://streak-stats.demolab.com/?user=Ayush-DA-02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush-DA-02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 💻 LeetCode Stats & Activity
+
+<div align="center">
+  <!-- Interactive Stats Card -->
+  <a href="https://leetcode.com/u/ZYRAX02/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ZYRAX02?theme=dark&font=Karma&ext=badges" alt="ZYRAX02 LeetCode Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- LeetCode Badges Card -->
+  <a href="https://leetcode.com/u/ZYRAX02/" target="_blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=ZYRAX02&theme=dark" alt="ZYRAX02 LeetCode Badges" />
+  </a>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
